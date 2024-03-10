@@ -1,11 +1,11 @@
 package sms
 
 import (
-	"awesomeProject/models"
-	"awesomeProject/providers"
 	"encoding/json"
 	"github.com/sfreiberg/gotwilio"
 	"log"
+	"notificationservice/models"
+	"notificationservice/providers"
 	"os"
 	"time"
 )

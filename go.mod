@@ -1,4 +1,4 @@
-module awesomeProject
+module notificationservice
 
 go 1.22.1
 

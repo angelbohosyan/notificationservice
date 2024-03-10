@@ -1,13 +1,13 @@
 package email
 
 import (
-	"awesomeProject/models"
-	"awesomeProject/providers"
 	"context"
 	"encoding/base64"
 	"fmt"
 	"log"
 	"net/http"
+	"notificationservice/models"
+	"notificationservice/providers"
 	"os"
 	"time"
 

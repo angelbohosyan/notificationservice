@@ -1,9 +1,9 @@
 package services
 
 import (
-	"awesomeProject/models"
 	"fmt"
 	"log"
+	"notificationservice/models"
 )
 
 type NotificationResult struct {
