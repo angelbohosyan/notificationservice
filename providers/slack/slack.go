@@ -1,12 +1,12 @@
 package slack
 
 import (
-	"awesomeProject/models"
-	"awesomeProject/providers"
 	"encoding/json"
 	"fmt"
 	"github.com/slack-go/slack"
 	"log"
+	"notificationservice/models"
+	"notificationservice/providers"
 	"os"
 	"time"
 )

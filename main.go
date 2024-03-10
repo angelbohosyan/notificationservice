@@ -1,14 +1,14 @@
 package main
 
 import (
-	"awesomeProject/models"
-	"awesomeProject/services"
 	"encoding/json"
 	"fmt"
 	"github.com/google/uuid"
 	"io/ioutil"
 	"log"
 	"net/http"
+	"notificationservice/models"
+	"notificationservice/services"
 )
 
 func main() {

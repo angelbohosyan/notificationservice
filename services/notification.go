@@ -1,11 +1,11 @@
 package services
 
 import (
-	"awesomeProject/models"
-	"awesomeProject/providers/email"
-	"awesomeProject/providers/slack"
-	"awesomeProject/providers/sms"
 	"fmt"
+	"notificationservice/models"
+	"notificationservice/providers/email"
+	"notificationservice/providers/slack"
+	"notificationservice/providers/sms"
 	"time"
 )
 
